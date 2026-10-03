@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.out
+
+# Editor / tool state
+.vscode/
+*.code-workspace
+
+# Not C, or reference material kept out of this repo
+C#/
+*.pdf
+*.tar.gz
+
+# Nested git repos (kept separate)

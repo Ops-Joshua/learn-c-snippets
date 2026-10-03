@@ -1,0 +1,7 @@
+palindromic number 
+
+rotate matrix 
+https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+
+Consecutive sequenced numbers in a string
+https://www.geeksforgeeks.org/consecutive-sequenced-numbers-in-a-string/
